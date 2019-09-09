@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am zvijerka123 on github.
+  * I am zvijerka (https://keybase.io/zvijerka) on keybase.
+  * I have a public key ASAnheWyohpX5S7xG3HIRrvvvMiC2La8JnEang1iA4Uspgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202785e5b2a21a57e52ef11b71c846bbefbcc882d8b6bc26711a9e0d6203852ca60a",
+      "host": "keybase.io",
+      "kid": "01202785e5b2a21a57e52ef11b71c846bbefbcc882d8b6bc26711a9e0d6203852ca60a",
+      "uid": "16e4109ac1193de6ce55d9b8c101c519",
+      "username": "zvijerka"
+    },
+    "merkle_root": {
+      "ctime": 1568066688,
+      "hash": "7f50c9895200c97c878e6f52c766f3ed76cd612c5f9f13dcd77b01b7a848678fb9068976072fc64f547d787ea56a469540a00dc65f667fc2260358e7e7fd6411",
+      "hash_meta": "79dfe7a8aae6a13dd91296103efb90b6cfc38c1c3539d5876aaaee2cde359922",
+      "seqno": 6263334
+    },
+    "service": {
+      "entropy": "jOV0+PkbpTyWuA3/NCnwSA1z",
+      "name": "github",
+      "username": "zvijerka123"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568066690,
+  "expire_in": 504576000,
+  "prev": "cb50a852132855d7e318689cc3a9f757860ee384c7f42b9901d9d46ccc0c8566",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASAnheWyohpX5S7xG3HIRrvvvMiC2La8JnEang1iA4Uspgo](https://keybase.io/zvijerka), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJ4XlsqIaV+Uu8RtxyEa777zIgti2vCZxGp4NYgOFLKYKp3BheWxvYWTESpcCDcQgy1CoUhMoVdfjGGicw6n3V4YO44TH9CuZAdnUbMwMhWbEIFAfjJZODQ56VE/Kdfcp86QvG5/QkdH3OYpm5gG3erseAgHCo3NpZ8RA8qaYL18D239zzNagJOJEXlU5lEZA4n8+/zGs1QofrY5R21W26kzROB5PxyA0QTM9kuaLiTvYspfsFvpnXa5tBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBCZSZVXrQpBDSC1t/0UhVEuvj+MR7PHHOgJEyVpEVKZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/zvijerka
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id zvijerka
+```
